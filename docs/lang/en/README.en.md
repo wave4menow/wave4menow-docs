@@ -36,9 +36,6 @@ Real-time wave conditions, wind, swell, period, community rating, and live repor
 5. Tap the ⭐ in the top-right corner to save it to favorites  
 6. Access your favorites using the second icon in the bottom bar  
 
-![Home screen – Search](assets/screenshots/busca.jpg)  
-*Search screen showing the best beaches of the day*
-
 ---
 
 ## 3. Detailed Features
@@ -59,15 +56,11 @@ When you tap a beach you’ll see:
 - Local report (text from people at the beach right now)  
 - Recent user comments  
 
-![Full beach profile – Maresias](assets/screenshots/perfil_praia.jpg)  
-![Profile header with favorite star](assets/screenshots/perfil_favoritado.jpg)
 
 ### 3.3 Favorites
 - Tap the ⭐ to save a beach  
 - Access all saved beaches via the ⭐ icon in the bottom bar  
 - Quick view of current conditions without opening the full profile  
-
-![Favorites screen](assets/screenshots/favoritos.jpg)
 
 ### 3.4 Settings
 Go to the profile icon → scroll to “SETTINGS”
@@ -77,7 +70,6 @@ Go to the profile icon → scroll to “SETTINGS”
 - Country (Map) → Brazil (default)  
 - Help the Documentation (opens this guide)
 
-![Profile & Settings](assets/screenshots/perfil_config.jpg)
 
 ---
 
@@ -88,7 +80,6 @@ Go to the profile icon → scroll to “SETTINGS”
 - Free users get a limited daily credit allowance  
 - Balance visible on the coin icon in the bottom bar  
 
-![Credits & Premium screen](assets/screenshots/creditos.jpg)
 
 ### Premium Plan (coming soon)
 - Unlimited views  
