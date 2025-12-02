@@ -4,6 +4,17 @@
 **Date:** December 2025  
 **Languages:** [Português (PT-BR)](README.pt.md) • English (EN)
 
+## Index
+- [1. Introduction](#1-introduction-to-wave4menow)
+- [2. Quick Start Guide](#2-quick-start-guide)
+- [3. Detailed Features](#3-detailed-features)
+  - [3.1 Search](#31-search-system)
+  - [3.2 Beach Profile](#32-beach-profile)
+  - [3.3 Favorites](#33-favorites)
+  - [3.4 Settings](#34-settings)
+- [4. Premium Features (Coming Soon)](#4-premium-features-coming-soon)
+- [5. Support & FAQ](#5-support--faq)
+- [Contact](#contact)
 ---
 
 ## 1. Introduction to Wave4meNow
