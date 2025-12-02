@@ -1,126 +1,131 @@
-# Wave4meNow – Documentação Oficial
+# Wave4meNow – Official Documentation
 
-**Versão do App:** 1.0.0  
-**Data:** Dezembro de 2025  
-**Idiomas:** Português (PT-BR) • [English (EN)](README.en.md)
-
----
-
-## 1. Introdução ao Wave4meNow
-
-### O que é o Wave4meNow?
-O aplicativo número 1 para surfistas brasileiros.  
-Mostra em tempo real as condições das ondas, vento, swell, período, rating da comunidade e os relatos da galera que está na praia agora.
-
-### Funcionalidades Principais
-- Busca instantânea em mais de 300 praias do Brasil  
-- Condições detalhadas das ondas (altura, período, direção)  
-- Rating atualizado pela comunidade (1 a 5 estrelas)  
-- Relato local em tempo real (crowd, qualidade, dicas)  
-- Favoritos com acesso rápido  
-- Sistema de créditos (modelo premium em breve)
-
-### Modelo de Negócios
-- **Hoje:** 100% gratuito e sem anúncios obrigatórios  
-- **Em breve:** consultas detalhadas consumirão 1 crédito por acesso  
-- Plano Premium trará consultas ilimitadas, alertas de tubo e remoção total de anúncios
+**App Version:** 1.0.0  
+**Date:** December 2025  
+**Languages:** [Português (PT-BR)](README.pt.md) • English (EN)
 
 ---
 
-## 2. Guia Rápido – Primeiros Passos
+## 1. Introduction to Wave4meNow
 
-1. Baixe na App Store ou Google Play  
-2. Abra o app → já entra como usuário gratuito (sem cadastro)  
-3. Digite o nome da praia ou role a lista “As 5 Melhores do Brasil”  
-4. Toque na praia para ver todos os detalhes  
-5. Toque na ⭐ no canto superior direito para salvar nos favoritos  
-6. Acesse seus favoritos pelo segundo ícone da barra inferior
+### What is Wave4meNow?
+The #1 app for Brazilian surfers.  
+Real-time wave conditions, wind, swell, period, community rating, and live reports from the locals who are at the beach right now.
 
+### Main Features
+- Instant search across 300+ Brazilian beaches  
+- Detailed wave forecast (height, period, direction)  
+- Community rating (1–5 stars)  
+- Live local reports (crowd, wave quality, tips)  
+- Favorites for quick access  
+- Credit system (premium model coming soon)
 
----
-
-## 3. Funcionalidades Detalhadas
-
-### 3.1 Sistema de Busca
-- Campo de busca no topo da tela inicial  
-- Resultados mostram: nome da praia, cidade, rating, altura das ondas e condição resumida (TUBO, PERFEITA, BOA, etc.)
-
-### 3.2 Perfil da Praia
-Ao tocar em qualquer praia você verá:
-
-- Altura das ondas (ex: 1.6 ~ 2.3 m)  
-- Condição destacada (TUBULAR, BOA, NORMAL, etc.)  
-- Rating da comunidade (ex: 4.8 / 5.0)  
-- Temperatura da água e do ar  
-- Direção e força do vento  
-- Estado da maré  
-- Relato local (texto da galera que está na praia)  
-- Comentários recentes
-
-
-
-### 3.3 Favoritos
-- Toque na estrela ⭐ para salvar  
-- Acesse todas as praias salvas no ícone ⭐ da barra inferior  
-- Visualização rápida da condição atual sem entrar no detalhe
-
-
-### 3.4 Configurações
-Acesse pelo ícone do bonequinho → role até “CONFIGURAÇÕES”
-
-- Unidade de Medida → Metros ou Pés  
-- Idioma → Português / English  
-- País (Mapa) → Brasil padrão  
-- Ajude a Documentação (abre este guia)
-
+### Business Model
+- **Today:** 100% free, no forced ads  
+- **Coming soon:** detailed beach views will cost **1 credit** each  
+- Premium plan will include unlimited views, tube alerts, and zero ads
 
 ---
 
-## 4. Recursos Premium (Em Breve)
+## 2. Quick Start Guide
 
-### Sistema de Créditos
-- Cada consulta detalhada de praia gastará **1 crédito**  
-- Usuários gratuitos recebem créditos diários limitados  
-- Saldo visível no ícone de moedas da barra inferior
+1. Download from the App Store or Google Play  
+2. Open the app → you’re in as a free user (no sign-up required)  
+3. Type the beach name or scroll through “Brazil’s Top 5 Today”  
+4. Tap any beach to see full details  
+5. Tap the ⭐ in the top-right corner to save it to favorites  
+6. Access your favorites using the second icon in the bottom bar  
 
-
-### Plano Premium (em breve)
-- Consultas ilimitadas  
-- Alertas de tubo nas praias favoritas  
-- Zero anúncios  
-- Acesso antecipado a novas funções
-
-Pacotes de créditos e assinatura estarão disponíveis na mesma tela quando o sistema de pagamento for ativado.
+![Home screen – Search](assets/screenshots/busca.jpg)  
+*Search screen showing the best beaches of the day*
 
 ---
 
-## 5. Suporte e Perguntas Frequentes (FAQ)
+## 3. Detailed Features
 
-**P: Preciso criar conta?**  
-R: Não! O app funciona 100% sem login.
+### 3.1 Search System
+- Search bar at the top of the home screen  
+- Results show: beach name, city, rating, current wave height, and summary condition (TUBULAR, PERFECT, GOOD, etc.)
 
-**P: Por que algumas praias mostram “Imagem não encontrada”?**  
-R: Estamos adicionando fotos e vídeos tubo-a-tubo aos poucos. Em breve todas terão!
+### 3.2 Beach Profile
+When you tap a beach you’ll see:
 
-**P: Como deixo meu relato ou rating?**  
-R: Entre no perfil da praia → role até o final → “Adicionar relato” ou dê sua nota.
+- Wave height range (e.g. 1.6 ~ 2.3 m)  
+- Highlighted condition (TUBULAR, GOOD, NORMAL, etc.)  
+- Community rating (e.g. 4.8 / 5.0)  
+- Water & air temperature  
+- Wind direction and speed  
+- Tide status  
+- Local report (text from people at the beach right now)  
+- Recent user comments  
 
-**P: Quando o app vai começar a cobrar?**  
-R: Ainda em fase de testes. Todos os usuários serão avisados com antecedência e receberão créditos grátis de boas-vindas.
+![Full beach profile – Maresias](assets/screenshots/perfil_praia.jpg)  
+![Profile header with favorite star](assets/screenshots/perfil_favoritado.jpg)
 
-**P: Posso mudar para pés em vez de metros?**  
-R: Sim! Perfil → Configurações → Unidade de Medida.
+### 3.3 Favorites
+- Tap the ⭐ to save a beach  
+- Access all saved beaches via the ⭐ icon in the bottom bar  
+- Quick view of current conditions without opening the full profile  
 
-### Contato
-- Email: wave4menow@gmail.com  
+![Favorites screen](assets/screenshots/favoritos.jpg)
+
+### 3.4 Settings
+Go to the profile icon → scroll to “SETTINGS”
+
+- Units → Meters or Feet  
+- Language → Português / English  
+- Country (Map) → Brazil (default)  
+- Help the Documentation (opens this guide)
+
+![Profile & Settings](assets/screenshots/perfil_config.jpg)
+
+---
+
+## 4. Premium Features (Coming Soon)
+
+### Credit System
+- Each detailed beach view will cost **1 credit**  
+- Free users get a limited daily credit allowance  
+- Balance visible on the coin icon in the bottom bar  
+
+![Credits & Premium screen](assets/screenshots/creditos.jpg)
+
+### Premium Plan (coming soon)
+- Unlimited views  
+- Tube alerts for your favorite beaches  
+- No ads  
+- Early access to new features  
+
+Credit packs and subscription will be available on the same screen once payments are live.
+
+---
+
+## 5. Support & FAQ
+
+**Q: Do I need to create an account?**  
+A: No! The app works 100% without login.
+
+**Q: Why do some beaches show “Image not found”?**  
+A: We’re adding photos and tube videos gradually. Soon every beach will have them!
+
+**Q: How do I leave a report or rating?**  
+A: Open the beach profile → scroll down → tap “Add report” or give your stars.
+
+**Q: When will the app start charging?**  
+A: Still in testing. All users will be notified in advance and receive free welcome credits.
+
+**Q: Can I switch to feet instead of meters?**  
+A: Yes! Profile → Settings → Units.
+
+### Contact
+- Email: ola@wave4menow.com  
 - Instagram: [@wave4menow](https://instagram.com/wave4menow)
 
 
-
 ---
 
-**Obrigado por fazer parte da maior comunidade de surf do Brasil!**  
-Qualquer dúvida é só chamar — a gente responde rapidinho.
+**Thanks for being part of Brazil’s biggest surf community!**  
+Any questions — just hit us up, we reply fast.
 
-Vamos pro mar! 🏄‍♂️  
-**Equipe Wave4meNow**
+Let’s hit the water!  
+**Wave4meNow Team**
